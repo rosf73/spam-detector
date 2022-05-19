@@ -1,4 +1,4 @@
-package com.specdetector
+package com.spamdetector
 
 import org.junit.Test
 
